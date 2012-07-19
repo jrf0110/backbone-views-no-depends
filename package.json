@@ -1,0 +1,19 @@
+{
+  "author": "John Fawcett <jrf0110@gmail.com> (http://johnfawcett.name)",
+  "name": "backbone-views-no-depends",
+  "description": "Dependency free backbone views",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jrf0110/backbone-views-no-depends",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/backbone-views-no-depends.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.15"
+  },
+  "dependencies": {
+		"backbone-events": "1.0.0"
+	},
+  "devDependencies": {}
+}
