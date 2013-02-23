@@ -1,4 +1,4 @@
-define(function(){
+define(['backbone-events'], function(Events){
   var Events = require('backbone-events');
 
   var _extend = function(obj) {

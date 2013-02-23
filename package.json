@@ -2,7 +2,7 @@
   "author": "John Fawcett <jrf0110@gmail.com> (http://johnfawcett.name)",
   "name": "backbone-views-no-depends",
   "description": "Dependency free backbone views",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/jrf0110/backbone-views-no-depends",
   "repository": {
     "type": "git",
